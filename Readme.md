@@ -1,5 +1,5 @@
-
 # SocketIO::Emitter
+[![Build Status](https://travis-ci.org/joker1007/socket.io-ruby-emitter.svg?branch=master)](https://travis-ci.org/joker1007/socket.io-ruby-emitter)
 
 A Ruby implementation of [socket.io-emitter](https://github.com/Automattic/socket.io-emitter).
 
